@@ -1,0 +1,1955 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"retu",
+				"returnDict\tabc"
+			],
+			[
+				"re",
+				"restaurants\tabc"
+			],
+			[
+				"facto",
+				"factor\tabc"
+			],
+			[
+				"lio",
+				"lista_stock\tabc"
+			],
+			[
+				"lis",
+				"lista_stock\tabc"
+			],
+			[
+				"list",
+				"lista_productos\tabc"
+			],
+			[
+				"nu",
+				"numero1\tabc"
+			],
+			[
+				"sto",
+				"storage\tabc"
+			],
+			[
+				"lista",
+				"lista_stock\tabc"
+			],
+			[
+				"juaAn",
+				"juanA\tabc"
+			],
+			[
+				"d",
+				"día_de_la_semana\tabc"
+			],
+			[
+				"div",
+				"div_entera\tabc"
+			],
+			[
+				"n",
+				"n_frases\tabc"
+			],
+			[
+				"print",
+				"printChar\tabc"
+			],
+			[
+				"n_",
+				"n_P\tabc"
+			],
+			[
+				"mejor",
+				"mejor_n\tabc"
+			],
+			[
+				"ma",
+				"mas_pesada\tabc"
+			],
+			[
+				"peso",
+				"peso_total\tabc"
+			],
+			[
+				"size",
+				"sizeof\tabc"
+			],
+			[
+				"end",
+				"endTime\tabc"
+			],
+			[
+				"saldo",
+				"saldos\tabc"
+			],
+			[
+				"actualiza",
+				"actualizarBinario\tabc"
+			],
+			[
+				"cut",
+				"cuenta2\tabc"
+			],
+			[
+				"tipo",
+				"tipoDeTransaccion\tabc"
+			],
+			[
+				"cliente",
+				"clienteBanco\tabc"
+			],
+			[
+				"pr",
+				"precios\tabc"
+			],
+			[
+				"inf",
+				"\\infty                                            \tlatex-mathsymbols"
+			],
+			[
+				"lim",
+				"\\limits                                           \ttex"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"vec",
+				"vector\tstd::vector"
+			],
+			[
+				"in",
+				"int\tabc"
+			],
+			[
+				"dia",
+				"diaMayor\tabc"
+			],
+			[
+				"tam",
+				"tamY\tabc"
+			],
+			[
+				"schema",
+				"schemaBreadcrumb\t(metaTags.php)"
+			],
+			[
+				"des",
+				"descripcion_corta\tabc"
+			],
+			[
+				"meta",
+				"metaTags\t(metaTags.php)"
+			],
+			[
+				"pedid",
+				"pedidos_estados_id\tabc"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"pe",
+				"pedidos"
+			],
+			[
+				"sql",
+				"sqlExecute\t(functions-sql.php)"
+			],
+			[
+				"btn-outline",
+				"btn-outline-secondary \tBootstrap 4.3 Class"
+			],
+			[
+				"pass",
+				"password\tabc"
+			],
+			[
+				"b4bt",
+				"b4-btn\tButton"
+			],
+			[
+				"container",
+				"container \tBootstrap 4.3 Class"
+			],
+			[
+				"fot",
+				"footer\tTag"
+			],
+			[
+				"justify",
+				"justify-content-center \tBootstrap 4.3 Class"
+			],
+			[
+				"ra",
+				"ralewaymedium\t(fonts.css)"
+			],
+			[
+				"src",
+				"src/"
+			],
+			[
+				"rale",
+				"ralewaythin\t(fonts.css)"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"back",
+				"background-color\tabc"
+			],
+			[
+				"contain",
+				"container \tBootstrap 4.3 Class"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"forea",
+				"foreach\t(newSession.php)"
+			],
+			[
+				"invent",
+				"inventario_movimientos\t(addMov.php)"
+			],
+			[
+				"productos",
+				"productos_detalles\tabc"
+			],
+			[
+				"prod",
+				"productos_total\tabc"
+			],
+			[
+				"producto",
+				"producto_id\tabc"
+			],
+			[
+				"produc",
+				"producto_id\tabc"
+			],
+			[
+				"new",
+				"newSession\tabc"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"descr",
+				"descripcion_corta\t(producto.php)"
+			],
+			[
+				"descri",
+				"descripcion_larga\tabc"
+			],
+			[
+				"modalcart",
+				"modalCartTable\t(modal-cart.php)"
+			],
+			[
+				"show",
+				"showCartButton\tabc"
+			],
+			[
+				"cart",
+				"cart-add.php"
+			],
+			[
+				"fun",
+				"function\tabc"
+			],
+			[
+				"result",
+				"resultados\tabc"
+			],
+			[
+				"resul",
+				"resultados\tabc"
+			],
+			[
+				"inven",
+				"inventario_sesiones_id\t(agregarExistencias.php)"
+			],
+			[
+				"produ",
+				"productos_detalles_barcode\tabc"
+			],
+			[
+				"ince",
+				"inventario_almacenes_id_2\tabc"
+			],
+			[
+				"delete",
+				"deleteFromInventario.php\t(moveInventario.php)"
+			],
+			[
+				"usua",
+				"usuarios_id\t(newSession.php)"
+			],
+			[
+				"inventa",
+				"inventario_almacenes_id\tabc"
+			],
+			[
+				"res",
+				"responseText\t(agregarExistencias.js)"
+			],
+			[
+				"agregar",
+				"agregarExistencias.js\t(agregarExistencias.php)"
+			],
+			[
+				"get",
+				"getElementById\t(agregarExistencias.js)"
+			],
+			[
+				"agre",
+				"agregarExistencias.php\t(header.php)"
+			],
+			[
+				"input",
+				"inputFechaFactura\tabc"
+			],
+			[
+				"check",
+				"checkAsociarFactura\tabc"
+			],
+			[
+				"select",
+				"selectAlmacen\tabc"
+			],
+			[
+				"pro",
+				"productos_detalles_barcode"
+			],
+			[
+				"includ",
+				"include_once\t(agregarExistencias.php)"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"parent",
+				"parentNode\t(): Node TreeWalker"
+			],
+			[
+				"paren",
+				"parentElement\t: Element Node"
+			],
+			[
+				"justio",
+				"justify-content-center \tBootstrap 4.3 Class"
+			],
+			[
+				"justi",
+				"justify-content-center \tBootstrap 4.3 Class"
+			],
+			[
+				"modalcon",
+				"modalConfirmTitle"
+			],
+			[
+				"conte",
+				"container-fluid \tBootstrap 4.3 Class"
+			],
+			[
+				"incl",
+				"incl\tinclude …"
+			],
+			[
+				"despach",
+				"despachoDireccion"
+			],
+			[
+				"med",
+				"medioPago"
+			],
+			[
+				"refre",
+				"refreshTable"
+			],
+			[
+				"getelem",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+			],
+			[
+				"list-gr",
+				"list-group-item"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 4.3 Class"
+			],
+			[
+				"text-",
+				"text-danger \tBootstrap 4.3 Class"
+			],
+			[
+				"btn-ou",
+				"btn-outline-danger \tBootstrap 4.3 Class"
+			],
+			[
+				"response",
+				"responseText\t XMLHttpRequest"
+			],
+			[
+				"text-l",
+				"text-light \tBootstrap 4.3 Class"
+			],
+			[
+				"bg-s",
+				"bg-secondary \tBootstrap 4.3 Class"
+			],
+			[
+				"b4che",
+				"b4-checkbox\tCheckbox"
+			],
+			[
+				"btn",
+				"btn-primary\t(producto.php)"
+			],
+			[
+				"url",
+				"urlencode\t(catalogo.php)"
+			],
+			[
+				"ur",
+				"urldecode\t(categoria.php)"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"getele",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"hide",
+				"hidden"
+			],
+			[
+				"hidd",
+				"hidden"
+			],
+			[
+				"card",
+				"card-body \tBootstrap 4.3 Class"
+			],
+			[
+				"conn",
+				"connectsql"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"scro",
+				"scrollY"
+			],
+			[
+				"none",
+				"none!important"
+			],
+			[
+				"func",
+				"functions-sql.php\t(etiqueta.php)"
+			],
+			[
+				"modal",
+				"modal-contact.php"
+			],
+			[
+				"templ",
+				"template/"
+			],
+			[
+				"temp",
+				"template/"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"jus",
+				"justify-content-center"
+			],
+			[
+				"img",
+				"img/7.jpg"
+			],
+			[
+				"varia",
+				"variations"
+			],
+			[
+				"variaciones",
+				"variaciones_header"
+			],
+			[
+				"variations",
+				"variations_header"
+			],
+			[
+				"scanne",
+				"scannerModal"
+			],
+			[
+				"sca",
+				"scanner-container"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "USM/tarea12/tarea12.py",
+			"settings":
+			{
+				"buffer_size": 1050,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++ (Full).sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with Terminus"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with Terminus Tab"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with input.txt"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with output.log"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with both"
+				]
+			],
+			[
+				"Packages/User/C++ (Full).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with input.txt"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with output.txt"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with both"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with Terminus"
+				]
+			],
+			[
+				"Packages/User/C++ (Full).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with Terminus"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with Terminus Tab"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with input.txt"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with output.log"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with both"
+				]
+			],
+			[
+				"Packages/User/C++ (Full).sublime-build",
+				"Run with Terminus"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with input.txt"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with output.txt"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with both"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with Terminus"
+				]
+			],
+			[
+				"Packages/User/C++ (Full).sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with input.txt"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with output.txt"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with both"
+				]
+			],
+			[
+				"Packages/User/C++ (Full).sublime-build",
+				"Run with both"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with input.txt"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with output.txt"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with both"
+				],
+				[
+					"Packages/User/C++ (Full).sublime-build",
+					"Run with Terminus"
+				]
+			],
+			[
+				"Packages/User/C++ (Full).sublime-build",
+				"Run with Terminus"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"LuaLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with Terminus"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with Terminus Tab"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with input.txt"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with output.log"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with both"
+				]
+			],
+			[
+				"Packages/User/Python(Full).sublime-build",
+				"Run with Terminus"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with Terminus"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with Terminus Tab"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with input.txt"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with output.txt"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with both"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with input.txt"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with output.txt"
+				],
+				[
+					"Packages/User/Python(Full).sublime-build",
+					"Run with both"
+				]
+			],
+			[
+				"Packages/User/Python(Full).sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git merge",
+				"Git: Merge Branch"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"terminus clos",
+				"Terminus: Close All"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"log",
+				"Log Highlight: Erase Custom Syntax & Theme"
+			],
+			[
+				"te",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus clo",
+				"Terminus: Close All"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"tab",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"raw",
+				"Raw Line Edit: View Line Endings"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"tab ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"clo",
+				"Terminus: Close All"
+			],
+			[
+				"term clo",
+				"Terminus: Close All"
+			],
+			[
+				"close all",
+				"Terminus: Close All"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus open",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus cl",
+				"Terminus: Close All"
+			],
+			[
+				"set diction",
+				"Dictionaries: Set Language"
+			],
+			[
+				"set lang",
+				"Dictionaries: Set Language"
+			],
+			[
+				"dis",
+				"Dictionaries: Set Language"
+			],
+			[
+				"di",
+				"Dictionaries: Set Language"
+			],
+			[
+				"dictor\t",
+				"Dictionaries: Set Language"
+			],
+			[
+				"dictionary ",
+				"Dictionary Auto Complete: Toggle"
+			],
+			[
+				"dict",
+				"Dictionaries: Set Language"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus them",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"terminus the",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"terminus ",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git all",
+				"Git: Add All"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git add a",
+				"Git: Add All"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"skin",
+				"UI: Save Skin"
+			],
+			[
+				"skin ",
+				"UI: Select Skin"
+			],
+			[
+				"boxy con",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"yua",
+				"ayu: Activate theme"
+			],
+			[
+				"mo",
+				"Monokai Pro: select theme"
+			],
+			[
+				"monkai",
+				"Monokai Pro: select theme"
+			],
+			[
+				"monka",
+				"Monokai Pro: select theme"
+			],
+			[
+				"monak",
+				"Monokai Pro: select theme"
+			],
+			[
+				"mono",
+				"Monokai Pro: select theme"
+			],
+			[
+				"monokai",
+				"Monokai Pro: select theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git chang",
+				"Git: Change Branch"
+			],
+			[
+				"git change",
+				"Git: Change Branch"
+			],
+			[
+				"git quikc",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git psuh",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git merg",
+				"Git: Merge Branch"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"git que",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git chanb",
+				"Git: Change Branch"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git change ",
+				"Git: Change Branch"
+			],
+			[
+				"git remote",
+				"Git: Track Remote Branch"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"git push ta",
+				"Git: Push Tags"
+			],
+			[
+				"git psu",
+				"Git: Push"
+			],
+			[
+				"delete",
+				"Git: Delete Tag"
+			],
+			[
+				"git push tag",
+				"Git: Push Tags"
+			],
+			[
+				"tag new",
+				"Git: New Tag"
+			],
+			[
+				"git tag",
+				"Git: Push Tags"
+			],
+			[
+				"instalkl",
+				"Package Control: Install Package"
+			],
+			[
+				"add ro",
+				"Package Control: Add Repository"
+			],
+			[
+				"git quick ",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git quii",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git psu\t",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ch",
+				"Git: Change Branch"
+			],
+			[
+				"git quo",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git mer",
+				"Git: Merge Branch"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
+			[
+				"git b",
+				"Git: Change Branch"
+			],
+			[
+				"git bran",
+				"Git: Change Branch"
+			],
+			[
+				"git adl",
+				"Git: Add All"
+			],
+			[
+				"branch",
+				"Git: Change Branch"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"gitbran",
+				"Git: Change Branch"
+			],
+			[
+				"git delete",
+				"Git: Delete Branch"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git bra",
+				"Git: New Branch"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Sublimerge: Remove Snapshot"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git add\t",
+				"Git: Add All"
+			],
+			[
+				"git qi",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git quick\t",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git add \t",
+				"Git: Add All"
+			],
+			[
+				"git commi",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sub",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"git ad ",
+				"Git: Add All"
+			],
+			[
+				"edit ",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"edit sni",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"git quci",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"git st",
+				"Git: Status"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 282.0,
+		"history":
+		[
+			"schemaSite();",
+			"clear()",
+			"help",
+			"info",
+			"status",
+			"ipconfig",
+			"clear",
+			"10 10",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/dev/Comp",
+		"/E/dev/Comp/USM",
+		"/E/dev/Comp/USM/tarea12",
+		"/E/dev/Comp/UVa"
+	],
+	"file_history":
+	[
+		"/E/dev/Comp/RPC/K/K.cpp",
+		"/E/dev/Comp/Codevita/1/D.cpp",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/dev/php/php.ini-development",
+		"/E/dev/Comp/RPC/K/input.txt",
+		"/C/dev/php/php.ini",
+		"/C/dev/php/php.ini-production",
+		"/E/dev/Comp/RPC/Issuing/input.txt",
+		"/E/dev/Comp/RPC/Issuing/Issuing.py",
+		"/E/dev/Comp/RPC/PeaSoup/input.txt",
+		"/E/dev/Comp/RPC/PeaSoup/main.py",
+		"/E/dev/Comp/RPC/Elon/Elon.cpp",
+		"/E/dev/Comp/RPC/Elon/input.txt",
+		"/E/dev/Comp/RPC/PeaSoup/PeaSoup.cpp",
+		"/E/dev/Comp/RPC/Checkboard/Checkboard.cpp",
+		"/E/dev/Comp/RPC/Checkboard/input.txt",
+		"/E/dev/Buscamiwinas/Python/main.py",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.464/readme.txt",
+		"/E/dev/Comp/USM/C/input.txt",
+		"/E/dev/Comp/USM/C/C.cpp",
+		"/E/Juegos/P3Dv4/Modules/FSUIPC5.log",
+		"/E/Instaladores/Juegos/Flight Simulator/P3D v4/FSUIPC/readme.txt",
+		"/E/Juegos/P3Dv4/Aerosoft/Aerosoft A320-A321 Professional/Product.cfg",
+		"/E/Juegos/P3Dv4/Aerosoft/Aerosoft A320-A321 Professional/Readme.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.779/Serial.txt",
+		"/E/Instaladores/Juegos/Flight Simulator/varios/FSpassengers v20160928/!README.txt",
+		"/E/Instaladores/Juegos/Flight Simulator/p3d/scel_adep4_mt/readme.txt",
+		"/E/Instaladores/Juegos/Flight Simulator/P3D v4/Flight1 Ultimate Traffic Live  v1.1/Flight1 - Ultimate Traffic Live  v1.1/Readme.txt",
+		"/E/Instaladores/Juegos/Flight Simulator/P3D v4/pfpx/Installation.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.486/README.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.768/Readme.txt",
+		"/E/Instaladores/Juegos/Flight Simulator/P3D v4/FSUIPC/FSUIPC 5.103/FSUIPC5 Install.log",
+		"/E/Instaladores/Juegos/Flight Simulator/P3D v4/FSUIPC/FSUIPC 5.103/readme.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.358/!readme.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.289/readme.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.772/readme.txt",
+		"/E/Instaladores/Juegos/Flight Simulator/P3D v4/FSUIPC/FSUIPC 5.15/FSUIPC5 Install.log",
+		"/E/Instaladores/Juegos/Flight Simulator/P3D v4/FSUIPC_5.141e/!readme.txt",
+		"/E/Instaladores/Juegos/Flight Simulator/P3D v4/FSUIPC 5.103/readme.txt",
+		"/E/dev/Comp/USM/C/main.py",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/ejercicio2.c",
+		"/E/dev/Comp/progComp.sublime-project",
+		"/E/dev/Comp/HC/1/1.py",
+		"/C/Users/vicho/Desktop/T11_202073610-3.py",
+		"/E/dev/Comp/HC/Rainbox/input.txt",
+		"/E/dev/Comp/HC/Rainbox/Rainbox.cpp",
+		"/E/dev/Comp/HC/Rainbox/output.log",
+		"/C/Users/vicho/Desktop/T10_202073610-3.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.910/readme.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.459/readme.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.987/readme.txt",
+		"/C/Users/vicho/Desktop/T10_202073610-354.py",
+		"/E/dev/Comp/Tareas/carrillo/carrillo.cpp",
+		"/E/dev/Comp/Tareas/IWI10/202073610-3.py",
+		"/C/Users/vicho/Desktop/Tarea progra/solucion-tarea-listas.py",
+		"/E/dev/Comp/Tareas/benja/2.py",
+		"/E/dev/Comp/Tareas/benja/benja.py",
+		"/E/dev/Comp/1/1.py",
+		"/E/dev/Comp/CodeJam/pareting/pareting.cpp",
+		"/E/dev/Comp/Tareas/benja/benja.cpp",
+		"/E/dev/Comp/Tareas/EDD1-Tarea2/structs.cpp",
+		"/E/dev/Comp/RPC/DomeConstruction/DomeConstruction.cpp",
+		"/E/dev/Comp/RPC/DomeConstruction/input.txt",
+		"/E/dev/Comp/RPC/DomeConstruction/output.log",
+		"/E/dev/Comp/Certamen/test/test.py",
+		"/E/dev/Comp/Certamen/test/input.txt",
+		"/E/dev/Comp/RPC/H/H.cpp",
+		"/E/dev/Comp/Certamen/2/p3.py",
+		"/E/dev/Comp/Certamen/test/output.log",
+		"/E/dev/Comp/CodeJam/indicium/indicium.cpp",
+		"/E/dev/Comp/Certamen/2/output.log",
+		"/E/dev/Comp/HC/s5/output.log",
+		"/E/dev/Comp/Certamen/2/2.py",
+		"/E/dev/Comp/Certamen/1/1.py",
+		"/E/dev/Comp/Certamen/Ruteo/Ruteo.py",
+		"/E/dev/Comp/USM/Ruteo/Ruteo.py",
+		"/E/dev/Comp/0-New.py",
+		"/E/dev/Comp/USM/Strings1-6/Strings1-6.py",
+		"/E/dev/Comp/USM/Desviacion/Desviacion.cpp",
+		"/E/dev/OCI/Campamento/rana.cpp",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.971/Informacion!!.txt",
+		"/E/dev/Comp/USM/replit/replit.py",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/main4.cpp",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/gen.py",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/P.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/Pmin.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/ad.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/r.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/Spy.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/output.log",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/a.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/Smin.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/Pmax.txt",
+		"/C/Users/vicho/Desktop/EDD1-Tarea1/main4.cpp",
+		"/C/Users/vicho/Desktop/EDD1-Tarea1/answer/ggy.out",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.922/ptime.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.604/ptime.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/fh.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/S.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/main3.cpp",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.139/tiempo.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/Smax.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/h.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/main5.cpp",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/main4.cpp.old",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/ksjdasjd.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/solucion/fh.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/solucion/jl.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/jl.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/ggy.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/solucion/ggy.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/main2.cpp.old",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DRa0.712/S10000P400/solucion/jl.out",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/hola.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/s.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.087/S.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.413/tiempo.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/e.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/run.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.303/tiempo.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.092/S.txt",
+		"/C/Users/vicho/AppData/Local/Temp/Rar$DIa0.233/tiempo.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer/a.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/answer",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/e.txt",
+		"/E/dev/Comp/Tareas/EDD1-Tarea1/main.cpp",
+		"/E/dev/Comp/Tareas/EDD1-Tarea2/main.c"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 150.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"openssl",
+			"ssl",
+			"s",
+			"badStrings[i]",
+			"int",
+			"7",
+			"1",
+			"cout",
+			"qnnxzsgpgzwxpnohwtmihflfejeqbdqipdffdhlrqccpzlonbrowpqxwh",
+			"qnnxzsgpgzwxpnohwtmihflfejeqbdqipdffd",
+			"h ",
+			"201",
+			"qgd",
+			"mejor",
+			".",
+			" ",
+			"ñ",
+			"ú",
+			"ó",
+			"í",
+			"é",
+			"á",
+			"\\/(.*)",
+			"priority",
+			"map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"badStrings[i]",
+			"s",
+			"long long",
+			"202",
+			"best",
+			"",
+			"n",
+			"u",
+			"o",
+			"i",
+			"e",
+			"é",
+			"a",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "USM/tarea12/tarea12.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								593,
+								593
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										598,
+										599
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										593,
+										594
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 305.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 148.0
+	},
+	"output.Terminus":
+	{
+		"height": 225.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 366.0
+	},
+	"output.exec":
+	{
+		"height": 349.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 136.0
+	},
+	"output.latextools":
+	{
+		"height": 148.0
+	},
+	"output.loghighlight":
+	{
+		"height": 167.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.raw_line_edit_view":
+	{
+		"height": 148.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 136.0
+	},
+	"output.stino_panel":
+	{
+		"height": 148.0
+	},
+	"pinned_build_system": "",
+	"project": "progComp.sublime-project",
+	"replace":
+	{
+		"height": 102.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"htdocs\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\dev\\ortopediaonline.cl\\Ortopedia.sublime-project"
+			],
+			[
+				"doc",
+				"E:\\dev\\Comp\\usm\\bari\\docs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
